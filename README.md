@@ -3,7 +3,7 @@ This is the companion repository for my breadboard weather station project. It i
 
 I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/).
 
-![The project over a table.](https://github.com/lucasfernandoprojects/)
+![The project over a table.](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-1.jpg)
 
 ## 🚀OVERVIEW
 This project started as a way to test wireless communication for a weather station concept. The goal was simple: build a functional prototype using two Arduino boards, LoRa modules, a DHT11 sensor, and a GPS receiver.
@@ -13,8 +13,8 @@ One Arduino acts as the **transmitter** (collects weather data + GPS coordinates
 Communication happens via LoRa (Long Range), a low-power wireless protocol common in IoT applications. If you're new to LoRa, I recommend you watch [this quick introduction].(https://www.youtube.com/watch?v=w7p6iTCCfqA&t=5s).
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-3.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
 ## 🧩WHAT THIS PROJECT DOES
@@ -47,18 +47,18 @@ Communication happens via LoRa (Long Range), a low-power wireless protocol commo
 Follow the schematics below to assemble all components.
 
 ### Transmitter
-![Project's diagram - transmitter](https://github.com/lucasfernandoprojects/)
+![Project's diagram - transmitter](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-4.jpg)
 
 ### Receiver
-![Project's diagram - receiver](https://github.com/lucasfernandoprojects/)
+![Project's diagram - receiver](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-5.jpg)
 
 In the end, you'll have something like this:
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-6.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-7.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-8.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-9.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
 ## 💡TESTING AND RESULTS
@@ -89,10 +89,9 @@ I checked the coordinates on Google Maps. They matched perfectly. If I ever lose
 The button toggled between Celsius and Fahrenheit without issues.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-10.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-11.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-12.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
 ## NEXT STEPS
@@ -106,4 +105,4 @@ I want to give a huge thank you to [Reyax](https://reyax.com/), who kindly provi
 
 You can find their products on [Amazon](https://bit.ly/4kfPzGm), [DigiKey](https://www.digikey.com/en/products/detail/reyax/RYLR993-Lite/22237834), and other (global distributors)[https://reyax.com//distributors.php].
 
-![Reyax's website.](https://github.com/lucasfernandoprojects/)
+![Reyax's website.](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-13.jpg)
