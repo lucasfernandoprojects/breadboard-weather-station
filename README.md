@@ -10,7 +10,7 @@ This project started as a way to test wireless communication for a weather stati
 
 One Arduino acts as the **transmitter** (collects weather data + GPS coordinates). The other acts as the **receiver** (displays the data on an LCD screen).
 
-Communication happens via LoRa (Long Range), a low-power wireless protocol common in IoT applications. If you're new to LoRa, I recommend you watch [this quick introduction].(https://www.youtube.com/watch?v=w7p6iTCCfqA&t=5s).
+Communication happens via LoRa (Long Range), a low-power wireless protocol common in IoT applications. If you're new to LoRa, I recommend you watch [this quick introduction](https://www.youtube.com/watch?v=w7p6iTCCfqA&t=5s).
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-2.jpg" width="400" height="250" style="margin: 10px;">
@@ -47,10 +47,10 @@ Communication happens via LoRa (Long Range), a low-power wireless protocol commo
 Follow the schematics below to assemble all components.
 
 ### Transmitter
-![Project's diagram - transmitter](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-4.jpg)
+![Project's diagram - transmitter](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-4.png)
 
 ### Receiver
-![Project's diagram - receiver](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-5.jpg)
+![Project's diagram - receiver](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-5.png)
 
 In the end, you'll have something like this:
 
@@ -105,4 +105,4 @@ I want to give a huge thank you to [Reyax](https://reyax.com/), who kindly provi
 
 You can find their products on [Amazon](https://bit.ly/4kfPzGm), [DigiKey](https://www.digikey.com/en/products/detail/reyax/RYLR993-Lite/22237834), and other (global distributors)[https://reyax.com//distributors.php].
 
-![Reyax's website.](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-13.jpg)
+![Reyax's website.](https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-13.png)
