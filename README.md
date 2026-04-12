@@ -95,13 +95,13 @@ The button toggled between Celsius and Fahrenheit without issues.
     <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-14.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
-## NEXT STEPS
+## ➡️NEXT STEPS
 
 + Perform a city-based range test (obstacles, buildings, traffic)
 + Design an enclosure for outdoor use
 + Improve GPS lock time (consider a better module or add a backup battery)
 
-## ❤️SPONSOR
+## 🤝SPONSOR
 I want to give a huge thank you to [Reyax](https://reyax.com/), who kindly provided the [RYLR993 Lite modules](https://reyax.com/products/RYLR993_Lite) for this tutorial.
 
 You can find their products on [Amazon](https://bit.ly/4kfPzGm), [DigiKey](https://www.digikey.com/en/products/detail/reyax/RYLR993-Lite/22237834), and other [global distributors](https://reyax.com//distributors.php).
