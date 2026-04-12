@@ -92,6 +92,7 @@ The button toggled between Celsius and Fahrenheit without issues.
     <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-10.jpg" width="400" height="250" style="margin: 10px;">
     <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-11.jpg" width="400" height="250" style="margin: 10px;">
     <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-12.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/breadboard-weather-station/blob/main/photos/photo-14.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
 ## NEXT STEPS
