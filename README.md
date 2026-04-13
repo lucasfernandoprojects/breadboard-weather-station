@@ -34,7 +34,6 @@ Communication happens via LoRa (Long Range), a low-power wireless protocol commo
 | DHT11 sensor                                  | 1 |
 | NEO-6M GPS                                    | 1 |
 | I2C LCD                                       | 1 |
-| NEO-6M GPS                                    | 1 |
 | I/O expansion shield                          | 1 |
 | Push button                                   | 1 |
 | 5kΩ resistor                                  | 2 |
