@@ -1,4 +1,8 @@
-// Transmitter
+// ===== Transmitter =====
+// Change AT+BAND=915000000 to match your region:
+// Europe: 868000000
+// US/Canada: 915000000
+// Asia: 923000000
 
 #include <SoftwareSerial.h>
 #include <DHT.h>
